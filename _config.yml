@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+<<<<<<< HEAD
 title: Beck McGowan
 email: hello@beckmcgowan.com
 description: "Hi, I'm Beck - software developer with a passion for working on projects to improve the lives of others. Pop in, look around, and let's chat Tech for good."
