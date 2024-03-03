@@ -1,0 +1,42 @@
+$base-font-family: 'Work Sans', sans-serif;
+$base-font-size:   20px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.7;
+
+$spacing-unit:     30px;
+$white:            white;
+$light-gray:       gray;
+$text-color:       #333;
+$sub-text-color:   #2e2e2e;
+$hover-text-color: #ff66a3;
+$background-color: #fdfdfd;
+$brand-color:      #ff66a3;
+$alt-brand-color:  #68fbfb;
+$projectbox-text:  #1e2126;
+
+//interpolated values for brand-color (#FF66A3) and light mode text-color (#303030):
+// { #EC6199, #D95C8E, #C75784, #B45279, #A14D6F, #8E4964, #7B445A, #683F4F, #563A45, #43353A }
+//
+//interpolated values for brand-color (#FF66A3) and OG dark mode text-color (#99adad):
+// { #F66CA4, #EC73A5, #E379A6, #DA80A7, #D186A8, #C78DA8, #BE93A9, #B59AAA, #ACA0AB, #A2A7AC }
+//
+//interpolated values for brand-color (#FF66A3) and new dark mode text-color (#b9dfdf):
+// { #F971A8, #F27CAE, #EC87B3, #E692B9, #DF9DBE, #D9A8C4, #D2B3C9, #CCBECF, #C6C9D4, #BFD4DA }
+
+// Color scheme for light
+$body-bg-light: #fdfdfd;
+$projectbox-light: #c3e1c9;
+$text-color-light: #303030;
+$sub-text-color-light: #292929;
+$hover-text-color-light: #563A45;
+
+// Color scheme for dark modes
+$body-bg: #121717;
+$projectbox: lighten($brand-color, 26%);
+$text-color: $white; //#99adad;
+$sub-text-color: lighten($brand-color, 24%); //#b9dfdf;
+$hover-text-color: lighten($brand-color, 25%);
+
+//avoid WIP issues
+$light-theme-enabled: false !default;

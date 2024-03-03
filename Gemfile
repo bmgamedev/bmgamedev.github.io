@@ -26,6 +26,10 @@ gem "github-pages", "~> 228", group: :jekyll_plugins
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem 'jekyll-seo-tag'
+  gem 'jekyll-paginate'
+  gem 'jekyll-email-protect'
+  gem 'jekyll-target-blank'
 end
 
 #~~~~~~~~~~~~~~~~~~~~~
@@ -49,14 +53,13 @@ end
 # Performance-booster for watching directories on Windows
 
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+#gem 'wdm', '~> 0.1.1', :install_if => Gem.win_platform?
 
 #~~~~~~~~~~~~~~~~~~~~~
 
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem do not have a Java counterpart.
 
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
-<<<<<<< HEAD
 
 gem "webrick", "~> 1.8"
-=======
->>>>>>> d84d62a (add basic site framework)
+
