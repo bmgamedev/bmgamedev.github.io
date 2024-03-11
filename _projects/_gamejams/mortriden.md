@@ -2,7 +2,7 @@
 layout: post
 title: #Mortriden
 #description: A short collection game jam submissions
-permalink: /projects/gamejams/mortriden
+permalink: /projects/mortriden/
 #weight: 2
 ---
 

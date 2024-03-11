@@ -2,7 +2,7 @@
 layout: post
 #title: SSAO
 description: screen space ambient occlusion
-#permalink: /projects/ssao/
+permalink: /projects/ssao/
 #weight: 2
 ---
 ### SSAO ###

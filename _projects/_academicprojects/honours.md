@@ -2,7 +2,7 @@
 layout: post
 title: #"Honours Project: Formal Grammars"
 description: short project description
-#permalink: /projects/honours/
+permalink: /projects/honours/
 #url: honours/
 #date: 2018-11-18T12:33:46+10:00
 #weight: 1

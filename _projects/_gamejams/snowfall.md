@@ -2,7 +2,7 @@
 layout: post
 title: #Snowfall
 #description: A short collection game jam submissions
-permalink: /projects/gamejams/snowfall
+#permalink: /projects/gamejams/snowfall
 #weight: 2
 ---
 

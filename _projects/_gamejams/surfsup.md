@@ -2,7 +2,7 @@
 layout: post
 title: #Surf's Up
 #description: A short collection game jam submissions
-permalink: /projects/gamejams/surfsup
+permalink: /projects/surfsup/
 #weight: 2
 ---
 

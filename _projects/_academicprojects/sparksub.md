@@ -2,7 +2,7 @@
 layout: post
 title: #Sparksub
 description: sparksub
-#permalink: /projects/sparksub/
+permalink: /projects/sparksub/
 #weight: 3
 ---
 ### sparksub ###

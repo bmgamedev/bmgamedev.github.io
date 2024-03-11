@@ -2,7 +2,7 @@
 layout: post
 #title: SSAO
 description: norseman
-#permalink: /projects/norseman/
+permalink: /projects/norseman/
 #weight: 2
 ---
 ### Norseman ###

@@ -2,7 +2,7 @@
 layout: post
 title: #Marathon
 #description: A short collection game jam submissions
-permalink: /projects/gamejams/marathon
+permalink: /projects/marathon/
 #weight: 2
 ---
 

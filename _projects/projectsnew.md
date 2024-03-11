@@ -1,9 +1,9 @@
 ---
 layout: post
-title: #Nightmarevania
-description: short project description
-name: nightmarevania
-permalink: /projects/nightmarevania/
+title: #Projects
+#description: short project description
+name: Projects
+permalink: /projects/
 #date: 2019-03-28T15:14:54+10:00
 #weight: 5
 ---
