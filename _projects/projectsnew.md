@@ -11,9 +11,9 @@ permalink: /projects/
 Personal Projects
 ============
 
-### Nightmarevania/FATAL Engine ###
+### Nightmarevania/FATALengine ###
 
-Nightmarevania is a 2D platformer being created as the demo for the underlying engine (WEngine). Using the SFML and Box2D libraries, WEngine started life as a piece of coursework built with a peer in my 3rd year of university. Over time, I have continued to develop it, adding more features and overhauling large amounts of the existing codebase to remove redundancy, and improve reusability. It utilises an Entity-Component System, and while there is no graphical user interface, building games with the engine is similar to using Unity due to the ECM pattern.
+Nightmarevania is a 2D platformer being created as the demo for the underlying engine (WEngine). Using the SFML and Box2D libraries, FATALengine started life as a piece of coursework built with a peer in my 3rd year of university. Over time, I have continued to develop it, adding more features and overhauling large amounts of the existing codebase to remove redundancy, and improve reusability. It utilises an Entity-Component System, and while there is no graphical user interface, building games with the engine is similar to using Unity due to the ECM pattern.
 
 Engine features include: tile loader system for building the levels from csv tilemaps; custom composite tile collider generation to overcome the issues with using Box2Ds colliders; an audio system; spritesheet animation system; dialogue system that handles text skipping; saving and reloading game data and game settings/preferences; many of the key components required for gameplay such as health, state machine and decision tree for use in NPC AI, different NPC behaviours, combat system which handles standard and special attacks, item interaction/pick-up; scene handling; button re-mapping and multiple window resolutions. 
 
